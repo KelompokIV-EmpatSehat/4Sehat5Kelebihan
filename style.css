@@ -8,8 +8,8 @@ h1 {text-align : center;
    }
 p {color : #87CEFA
   }
-body {background-color:light sky blue;
-     border:6px solid yellow;
+body {background-color: linear-gradient(135deg,#800FF,#1A002B,#000000);
+     border:6px solid #8000FF;
      border-radius:25px
      }
 marquee {color:black;
