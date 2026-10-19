@@ -28,3 +28,10 @@ body {
 marquee {color:black;
         font-family:Calibri
         }
+img {
+  display: block;
+  width: 300px;
+  height: 200px;
+  object-fit: contain;
+  margin: 20px auto;
+}
