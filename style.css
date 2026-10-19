@@ -17,8 +17,8 @@ marquee {color:white;
         }
 img {
   display: block;
-  width: 300px;
-  height: 200px;
+  width: 400px;
+  height: 300px;
   object-fit: contain;
   margin: 20px auto;
 } 
