@@ -8,23 +8,10 @@ h1 {text-align : center;
    }
 p {color :#0034hh
   }
-body { 
-  min-height: 100vh;
+body { min-height: 100vh;
   margin: 0;
-  background:
-    radial-gradient(
-      ellipse at 60% 60%,
-      #a33b91,
-      transparent 65%
-    ),
-    linear-gradient(
-      135deg,
-      #260b20,
-      #692044,
-      #130d20
-    );
-  background-attachment: fixed;
-}
+  background: #1A1A2E;
+  }
 marquee {color:black;
         font-family:Calibri
         }
