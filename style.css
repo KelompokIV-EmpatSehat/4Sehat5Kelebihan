@@ -21,4 +21,58 @@ img {
   height: 200px;
   object-fit: contain;
   margin: 20px auto;
+} 
+body {
+  color: #EAEAEA;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: #F5F5F5;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 42px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+p {
+  color: #EAEAEA;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+a {
+  color: #FFD60A;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F5C400;
+  text-decoration: underline;
+}
+
+button, .btn {
+  background-color: #FFD60A;
+  color: #1A1A2E;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto;
 }
